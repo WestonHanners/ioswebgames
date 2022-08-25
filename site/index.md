@@ -13,4 +13,3 @@ Website collecting high-quality games that can be played in Mobile Safari.
 | [Wordle](https://www.nytimes.com/games/wordle) | The Popular Word Game | No | Yes |
 | [DosZone](http://dos.zone/mobile/) | Dos Emulator | ? | Yes |
 | [Sierra Games](http://ipad.sarien.net/) | Play old Sierra adventure games | ? | Yes |
-| [Browser Quest](https://browserquest.io/) | Browser Based MMORPG | No | Yes |
