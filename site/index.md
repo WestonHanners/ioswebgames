@@ -1,6 +1,3 @@
-# iOS Web Games
-Website collecting high-quality games that can be played in Mobile Safari.
-
 | Game Name | Description | Controller | KBM |
 |:----------|:------------|:----------:|:---:|
 | [Diablo 1](https://d07riv.github.io/diabloweb/) | Diablo 1 in a browser, requires mpq file.| No | Yes |
